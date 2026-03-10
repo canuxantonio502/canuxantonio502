@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hola 👋, soy Antonio Canux
+ 
+:computer: Estudiante de programaciòn
 
-<!--
-**canuxantonio502/canuxantonio502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:wrench: Técnico en Mecánica Automotriz
 
-Here are some ideas to get you started:
+:round_pushpin: Guatemala
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+![Profile views](https://komarev.com/ghpvc/?username=canuxantonio502&color=blue)
+
+- 🔭 I'm currently studiyng at Campuslands.
+- 🤔 I like to learn new things frequently.
+- 📫 I like photography.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+snake eating your contributions
