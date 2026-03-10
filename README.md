@@ -12,19 +12,13 @@
 
 - 🔭 I'm currently studiyng at Campuslands.
 - 🤔 I like to learn new things frequently.
-- 📫 I like photography and music.
+- :camera: I like photography and music.
 
-## :hammer_and_wrench: Tecnologías
+## :hammer_and_wrench: Technologies
 
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
 ![Git](https://img.shields.io/badge/Git-orange?logo=git)
 ![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
-
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?canuxantonio502&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?canuxantonio502&layout=compact&theme=tokyonight)
 
 ## Contact me:
 
