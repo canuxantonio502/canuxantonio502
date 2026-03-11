@@ -23,7 +23,7 @@
 ## ESTADISTICAS.
 <p align="center">
 
-![python](https://github-readme-stats.vercel.app/api?username=canuxantonio502-debug&theme=radical&show_icons=true)
+![python](https://github-readme-stats.vercel.app/api?username=canuxantonio502&theme=radical&show_icons=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=canuxantonio502&theme=tokyonight)
 
 ## Contact me:
