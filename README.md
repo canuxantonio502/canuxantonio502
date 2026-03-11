@@ -1,6 +1,6 @@
-## 👋
+# <p align="center"> :zap: <b>WELCOME TO MY PROFILE</b> :zap: </p>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hi%20there,%20it's%20Antonio%20Canux&fontSize=40)
+<align="center">![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20it's%20Antonio%20Canux&fontSize=40)
  
 :computer: Programming student
 
