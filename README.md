@@ -19,6 +19,9 @@
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
 ![Git](https://img.shields.io/badge/Git-orange?logo=git)
 ![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)
+
 
 ## ESTADISTICAS.
 <p align="center">
