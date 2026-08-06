@@ -103,7 +103,7 @@
       <h3>Gestión de CampusParking</h3>
       <p>ParkingControl es un sistema web de gestión y control de parqueo desarrollado con tecnologías frontend nativas. Está enfocado en la administración eficiente de vehículos, el control dinámico de espacios y el cálculo automático de cobros en tiempo real.</p>
       <p><strong>Stack:</strong> HTML5, CSS3, JavaScript</p>
-      <a href="https://canuxantonio502.github.io/gestion_parqueo_javascript/">Ver proyecto</a>
+      <a href="https://canuxantonio502.github.io/gestion_parqueo_javascript/dashboard.html">Ver proyecto</a>
     </td>
     <td width="33%">
       <h3>CampusShop GT</h3>
