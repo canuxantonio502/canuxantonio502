@@ -113,8 +113,7 @@
     </td>
     <td width="33%">
       <h3>Campus Movie Explorer</h3>
-      <p>Campus Movie Explorer es una aplicación web interactiva que permite explorar películas populares, buscar películas por nombre, navegar entre categorías y visualizar información detallada de cada película mediante un modal dinámico.
-PROYECTO_3_TECNOLOGIAS= HTML5, CSS3, JavaScript, TMDB API</p>
+      <p>Campus Movie Explorer es una aplicación web interactiva que permite explorar películas populares, buscar películas por nombre, navegar entre categorías y visualizar información detallada de cada película mediante un modal dinámico.</p>
       <p><strong>Stack:</strong> HTML5, CSS3, JavaScript, TMDB API</p>
       <a href="https://canuxantonio502.github.io/campus_movie_explorer/">Ver proyecto</a>
     </td>
