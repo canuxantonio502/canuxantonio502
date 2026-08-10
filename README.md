@@ -125,7 +125,6 @@
 ## Actividad en GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=canuxantonio502&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=canuxantonio502&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
 </div>
 
