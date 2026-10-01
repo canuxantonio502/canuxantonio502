@@ -82,7 +82,7 @@
 
 <br />
 
-<table>
+<table align="center">
   <tr>
     <td width="33%" valign="top">
       <h3>Frontend</h3>
