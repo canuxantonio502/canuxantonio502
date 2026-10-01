@@ -7,7 +7,8 @@
 <div align="center">
   <a href="https://canuxantonio502.github.io/portafolio_profesional/"><img src="https://img.shields.io/badge/Portafolio-Disponible-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio" /></a>
   <a href="https://github.com/canuxantonio502?tab=repositories"><img src="https://img.shields.io/badge/Proyectos-GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Proyectos en GitHub" /></a>
-  <a href="https://github.com/canuxantonio502?tab=followers"><img src="https://img.shields.io/github/followers/canuxantonio502?style=for-the-badge&logo=github&label=Seguidores&color=0891b2" alt="Seguidores" /></a>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=canuxantonio502&style=for-the-badge&color=0891b2&label=VISITAS" alt="Profile views" />
 </div>
 
 <h1 align="center">Hola, soy Marco Antonio Canux Raquec</h1>
