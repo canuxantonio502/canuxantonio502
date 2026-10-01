@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="50" viewBox="0 0 760 50" role="img" aria-label="Frontend con HTML, CSS y JavaScript; Aprendiendo Node.js y desarrollo Full Stack; Bases de datos con MySQL; Siempre aprendiendo y construyendo proyectos">
+<style>text{font-family:"JetBrains Mono","Fira Code",Consolas,"Courier New",monospace;font-size:21px;font-weight:700;fill:#22c55e}</style>
+<clipPath id="c0"><rect x="10" y="0" height="50" width="0"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.0000;0.0875;0.2250;0.2500;1" values="0;0;468;468;0;0"/></rect></clipPath>
+<g clip-path="url(#c0)"><text x="10" y="32" opacity="0">Frontend con HTML, CSS y JavaScript<animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.0000;0.0010;0.2250;0.2500;1" values="0;0;1;1;0;0"/></text></g>
+<clipPath id="c1"><rect x="10" y="0" height="50" width="0"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.2500;0.3375;0.4750;0.5000;1" values="0;0;573;573;0;0"/></rect></clipPath>
+<g clip-path="url(#c1)"><text x="10" y="32" opacity="0">Aprendiendo Node.js y desarrollo Full Stack<animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.2500;0.2510;0.4750;0.5000;1" values="0;0;1;1;0;0"/></text></g>
+<clipPath id="c2"><rect x="10" y="0" height="50" width="0"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.5000;0.5875;0.7250;0.7500;1" values="0;0;322;322;0;0"/></rect></clipPath>
+<g clip-path="url(#c2)"><text x="10" y="32" opacity="0">Bases de datos con MySQL<animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.5000;0.5010;0.7250;0.7500;1" values="0;0;1;1;0;0"/></text></g>
+<clipPath id="c3"><rect x="10" y="0" height="50" width="0"><animate attributeName="width" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.7500;0.8375;0.9750;1.0000;1" values="0;0;586;586;0;0"/></rect></clipPath>
+<g clip-path="url(#c3)"><text x="10" y="32" opacity="0">Siempre aprendiendo y construyendo proyectos<animate attributeName="opacity" dur="16.0s" repeatCount="indefinite" keyTimes="0;0.7500;0.7510;0.9750;1.0000;1" values="0;0;1;1;0;0"/></text></g>
+</svg>

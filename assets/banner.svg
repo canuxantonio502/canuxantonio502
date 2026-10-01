@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Marco Antonio Canux Raquec - Desarrollador FrontEnd Junior">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/><stop offset="0.55" stop-color="#0b4a5c"/><stop offset="1" stop-color="#14532d"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" x2="1"><stop offset="0" stop-color="#0891b2"/><stop offset="1" stop-color="#22c55e"/></linearGradient>
+  </defs>
+  <rect width="1200" height="260" fill="url(#bg)"/>
+  <g fill="none" stroke="#ffffff" stroke-opacity="0.06">
+    <circle cx="1020" cy="60" r="150"/><circle cx="1020" cy="60" r="100"/><circle cx="1020" cy="60" r="50"/>
+    <circle cx="140" cy="230" r="120"/><circle cx="140" cy="230" r="70"/>
+  </g>
+  <circle r="5" fill="#22c55e" opacity="0.8">
+    <animateMotion dur="14s" repeatCount="indefinite" path="M1020,-90 A150,150 0 1,1 1019.9,-90"/>
+  </circle>
+  <g transform="translate(600,0)" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" fill="#fff">
+    <text y="30" font-size="13" letter-spacing="6" fill="#67e8f9" opacity="0">PERFIL PROFESIONAL<animate attributeName="opacity" from="0" to="1" dur="1s" fill="freeze"/></text>
+    <text y="118" font-size="50" font-weight="700">Marco Antonio Canux Raquec
+      <animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze"/>
+    </text>
+    <text y="160" font-size="22" fill="#cbd5e1">Desarrollador FrontEnd Junior</text>
+    <rect x="-90" y="185" width="180" height="3" rx="1.5" fill="url(#line)">
+      <animate attributeName="width" values="0;180" dur="1.4s" fill="freeze"/>
+      <animate attributeName="x" values="0;-90" dur="1.4s" fill="freeze"/>
+    </rect>
+    <text y="222" font-size="15" fill="#94a3b8">Guatemala, Guatemala</text>
+  </g>
+</svg>

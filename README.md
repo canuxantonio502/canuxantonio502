@@ -1,56 +1,61 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:0891b2,100:22c55e&text=Professional+Profile&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=GitHub+Portfolio&descAlignY=58&descSize=18" alt="Marco Antonio Canux Raquec - FrontEnd Developer" width="100%" />
+  <img src="./assets/banner.svg" alt="Marco Antonio Canux Raquec - Desarrollador FrontEnd Junior" width="100%" />
 </div>
 
 <br />
 
 <div align="center">
-  <a href="https://canuxantonio502.github.io/portafolio_profesional/">
-    <img src="https://img.shields.io/badge/Portafolio-Disponible-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio" />
-  </a>
-  <a href="https://github.com/canuxantonio502?tab=repositories">
-    <img src="https://img.shields.io/badge/Proyectos-GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=canuxantonio502&style=for-the-badge&color=0891b2&label=VISITAS" alt="Profile views" />
+  <a href="https://canuxantonio502.github.io/portafolio_profesional/"><img src="https://img.shields.io/badge/Portafolio-Disponible-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio" /></a>
+  <a href="https://github.com/canuxantonio502?tab=repositories"><img src="https://img.shields.io/badge/Proyectos-GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Proyectos en GitHub" /></a>
+  <a href="https://github.com/canuxantonio502?tab=followers"><img src="https://img.shields.io/github/followers/canuxantonio502?style=for-the-badge&logo=github&label=Seguidores&color=0891b2" alt="Seguidores" /></a>
 </div>
 
 <h1 align="center">Hola, soy Marco Antonio Canux Raquec</h1>
 
 <p align="center">
   <strong>Desarrollador FrontEnd Junior apasionado por crear aplicaciones web modernas</strong>
-  <br />
-  Frontend Developer en formación con conocimientos en HTML, CSS, JavaScript y MySQL, enfocado en crear interfaces limpias, responsivas y mantenibles. Actualmente amplío mis habilidades en desarrollo web moderno mientras participo en proyectos académicos y colaborativos.
+</p>
+
+<p align="justify">
+  Desarrollador Frontend en formación con conocimientos en HTML, CSS, JavaScript y MySQL, enfocado en crear interfaces limpias, responsivas y mantenibles. Actualmente amplío mis habilidades en desarrollo web moderno mientras participo en proyectos académicos y colaborativos.
 </p>
 
 <div align="center">
-  <a href="https://github.com/canuxantonio502">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=800&color=22C55E&center=true&vCenter=true&width=980&lines=Frontend+con+HTML+CSS+y+JavaScript;Aprendiendo+Node.js+y+desarrollo+Full+Stack;Bases+de+datos+con+MySQL;Siempre+aprendiendo+y+construyendo+nuevos+proyectos" alt="Typing SVG" />
-  </a>
+  <img src="./assets/typing.svg" alt="Frontend con HTML, CSS y JavaScript · Aprendiendo Node.js y Full Stack · MySQL" width="760" />
 </div>
+
+<p align="center">
+  <a href="#qué-hago">Qué hago</a> ·
+  <a href="#stack-principal">Stack</a> ·
+  <a href="#proyectos-destacados">Proyectos</a> ·
+  <a href="#actividad-en-github">Actividad</a> ·
+  <a href="#cómo-trabajo">Cómo trabajo</a> ·
+  <a href="#contacto">Contacto</a>
+</p>
 
 ---
 
-## Que hago
+## Qué hago
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>FrontEnd</h3>
-      <p>Desarrollo interfaces web limpias y responsivas.</p>
+      <p align="justify">Desarrollo interfaces web limpias, responsivas y accesibles.</p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>Proyectos y soluciones</h3>
-      <p>Aplico buenas prácticas con Git y GitHub.</p>
+      <p align="justify">Aplico buenas prácticas de control de versiones con Git y GitHub.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>Trabajo tecnico</h3>
-      <p>Disfruto aprender nuevas tecnologías constantemente.</p>
-    </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>Aprendizaje continuo</h3>
-      <p>Me enfoco en escribir código organizado y mantenible.</p>
+      <p align="justify">Disfruto aprender nuevas tecnologías de forma constante.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Código mantenible</h3>
+      <p align="justify">Me enfoco en escribir código organizado, legible y fácil de mantener.</p>
     </td>
   </tr>
 </table>
@@ -60,35 +65,35 @@
 ## Stack principal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,github,html,css,js,mysql,git,docker,vscode&perline=10" alt="Tech stack" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <br />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 </div>
 
 <br />
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Frontend-Stack-1f2937?style=flat-square" alt="Frontend" />
-  <img src="https://img.shields.io/badge/Backend-Stack-1f2937?style=flat-square" alt="Backend" />
-  <img src="https://img.shields.io/badge/Data-Databases-1f2937?style=flat-square" alt="Data" />
-  <img src="https://img.shields.io/badge/Tools-Workflow-1f2937?style=flat-square" alt="Tools" />
-</div>
-
----
-
-## Areas de enfoque
-
 <table>
   <tr>
-    <td width="33%">
+    <td width="33%" valign="top">
       <h3>Frontend</h3>
       <p>HTML, CSS, JavaScript</p>
     </td>
-    <td width="33%">
+    <td width="33%" valign="top">
       <h3>Backend y datos</h3>
-      <p>JavaScript, Node.js (aprendiendo)<br />MySQL</p>
+      <p>Node.js (aprendiendo)<br />Python · MySQL</p>
     </td>
-    <td width="33%">
+    <td width="33%" valign="top">
       <h3>Herramientas</h3>
-      <p>Git, GitHub, VS Code, Docker (básico)</p>
+      <p>Git, GitHub, VS Code<br />Docker (básico) · n8n</p>
     </td>
   </tr>
 </table>
@@ -99,23 +104,35 @@
 
 <table>
   <tr>
-    <td width="33%">
+    <td width="33%" valign="top">
       <h3>Gestión de CampusParking</h3>
-      <p>ParkingControl es un sistema web de gestión y control de parqueo desarrollado con tecnologías frontend nativas. Está enfocado en la administración eficiente de vehículos, el control dinámico de espacios y el cálculo automático de cobros en tiempo real.</p>
+      <p align="justify">Sistema web de gestión y control de parqueo desarrollado con tecnologías frontend nativas. Enfocado en la administración eficiente de vehículos, el control dinámico de espacios y el cálculo automático de cobros en tiempo real.</p>
       <p><strong>Stack:</strong> HTML5, CSS3, JavaScript</p>
-      <a href="https://canuxantonio502.github.io/gestion_parqueo_javascript/dashboard.html">Ver proyecto</a>
+      <p>
+        <a href="https://canuxantonio502.github.io/gestion_parqueo_javascript/dashboard.html">Ver proyecto</a> ·
+        <a href="https://github.com/canuxantonio502/gestion_parqueo_javascript">Código</a>
+      </p>
+      <img src="https://img.shields.io/github/last-commit/canuxantonio502/gestion_parqueo_javascript?style=flat-square&label=actualizado&color=0891b2" alt="Último commit" />
     </td>
-    <td width="33%">
+    <td width="33%" valign="top">
       <h3>CampusShop GT</h3>
-      <p>CampusShop es una plataforma de comercio electrónico diseñada para la venta de ropa, enfocada en una experiencia moderna, elegante y accesible. Este proyecto busca simular un entorno real de e-commerce, integrando diseño responsivo, navegación intuitiva y funcionalidades clave de compra.</p>
+      <p align="justify">Plataforma de comercio electrónico para la venta de ropa, con una experiencia moderna, elegante y accesible. Simula un entorno real de e-commerce con diseño responsivo, navegación intuitiva y funcionalidades clave de compra.</p>
       <p><strong>Stack:</strong> HTML5, CSS3</p>
-      <a href="https://canuxantonio502.github.io/campusshop/">Ver proyecto</a>
+      <p>
+        <a href="https://canuxantonio502.github.io/campusshop/">Ver proyecto</a> ·
+        <a href="https://github.com/canuxantonio502/campusshop">Código</a>
+      </p>
+      <img src="https://img.shields.io/github/last-commit/canuxantonio502/campusshop?style=flat-square&label=actualizado&color=0891b2" alt="Último commit" />
     </td>
-    <td width="33%">
+    <td width="33%" valign="top">
       <h3>Campus Movie Explorer</h3>
-      <p>Campus Movie Explorer es una aplicación web interactiva que permite explorar películas populares, buscar películas por nombre, navegar entre categorías y visualizar información detallada de cada película mediante un modal dinámico.</p>
+      <p align="justify">Aplicación web interactiva para explorar películas populares, buscar por nombre, navegar entre categorías y consultar información detallada de cada película mediante un modal dinámico.</p>
       <p><strong>Stack:</strong> HTML5, CSS3, JavaScript, TMDB API</p>
-      <a href="https://canuxantonio502.github.io/campus_movie_explorer/">Ver proyecto</a>
+      <p>
+        <a href="https://canuxantonio502.github.io/campus_movie_explorer/">Ver proyecto</a> ·
+        <a href="https://github.com/canuxantonio502/campus_movie_explorer">Código</a>
+      </p>
+      <img src="https://img.shields.io/github/last-commit/canuxantonio502/campus_movie_explorer?style=flat-square&label=actualizado&color=0891b2" alt="Último commit" />
     </td>
   </tr>
 </table>
@@ -125,54 +142,43 @@
 ## Actividad en GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=canuxantonio502&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=canuxantonio502&theme=tokyo-night&hide_border=true&radius=10&area=true&custom_title=Contribuciones%20recientes" alt="Contribution graph" width="98%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/canuxantonio502/canuxantonio502/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/canuxantonio502/canuxantonio502/output/github-snake.svg" />
+    <img alt="Gráfico de contribuciones animado" src="https://raw.githubusercontent.com/canuxantonio502/canuxantonio502/output/github-snake.svg" width="100%" />
+  </picture>
 </div>
 
 ---
 
-## Como trabajo
+## Cómo trabajo
 
-```txt
-Analisis -> estructura -> desarrollo -> validacion -> documentacion -> mejora
-```
+<p align="center"><code>Análisis → estructura → desarrollo → validación → documentación → mejora</code></p>
 
-<table>
-  <tr>
-    <td>Orden tecnico</td>
-    <td>Trabajo bien en equipo y me adapto rápidamente a nuevos retos.</td>
-  </tr>
-  <tr>
-    <td>Objetivo profesional</td>
-    <td>Obtener mi primera oportunidad como Desarrollador FrontEnd para seguir creciendo profesionalmente mientras aporto soluciones de calidad.</td>
-  </tr>
-</table>
+<details open>
+  <summary><strong>Orden técnico</strong></summary>
+  <p align="justify">Trabajo bien en equipo y me adapto rápidamente a nuevos retos.</p>
+</details>
+
+<details open>
+  <summary><strong>Objetivo profesional</strong></summary>
+  <p align="justify">Obtener mi primera oportunidad como Desarrollador FrontEnd para seguir creciendo profesionalmente mientras aporto soluciones de calidad.</p>
+</details>
 
 ---
 
 ## Contacto
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/marco-antonio-canux-raquec-153519402?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:canuxantonio77@gmail.com">
-    <img src="https://img.shields.io/badge/Correo-Contacto-22c55e?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
-  </a>
-  <a href="https://github.com/canuxantonio502">
-    <img src="https://img.shields.io/badge/GitHub-canuxantonio502-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <a href="https://www.linkedin.com/in/marco-antonio-canux-raquec-153519402"><img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:canuxantonio77@gmail.com"><img src="https://img.shields.io/badge/Correo-Contacto-22c55e?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" /></a>
+  <a href="https://github.com/canuxantonio502"><img src="https://img.shields.io/badge/GitHub-canuxantonio502-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
 <br />
 
 <div align="center">
-  <strong>Disponible | Guatemala, Guatemala</strong>
+  <strong>Disponible · Guatemala, Guatemala</strong>
+  <br />
+  <sub>Perfil actualizado: 30 de septiembre, 2026</sub>
 </div>
-
----
-
-**Perfil actualizado:** 05 de mayo, 2026
