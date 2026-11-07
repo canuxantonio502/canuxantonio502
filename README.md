@@ -130,7 +130,7 @@
       <p align="justify">Aplicación web interactiva para explorar películas populares, buscar por nombre, navegar entre categorías y consultar información detallada de cada película mediante un modal dinámico.</p>
       <p><strong>Stack:</strong> HTML5, CSS3, JavaScript, TMDB API</p>
       <p>
-        <a href="https://canuxantonio502.github.io/campus_movie_explorer/">Ver proyecto</a> ·
+        <a href="https://campus-movie-explorer.vercel.app/">Ver proyecto</a> ·
         <a href="https://github.com/canuxantonio502/campus_movie_explorer">Código</a>
       </p>
       <img src="https://img.shields.io/github/last-commit/canuxantonio502/campus_movie_explorer?style=flat-square&label=actualizado&color=0891b2" alt="Último commit" />
