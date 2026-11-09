@@ -1,28 +1,115 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Marco Antonio Canux Raquec - Desarrollador FrontEnd Junior">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Marco Antonio Canux Raquec - Técnico en Desarrollo de Software">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0f172a"/><stop offset="0.55" stop-color="#0b4a5c"/><stop offset="1" stop-color="#14532d"/>
+      <stop offset="0" stop-color="#060b1a"/>
+      <stop offset="0.6" stop-color="#0a1a2f"/>
+      <stop offset="1" stop-color="#062a24"/>
     </linearGradient>
-    <linearGradient id="line" x1="0" x2="1"><stop offset="0" stop-color="#0891b2"/><stop offset="1" stop-color="#22c55e"/></linearGradient>
+    <radialGradient id="glowA" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#0891b2" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#0891b2" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#22c55e" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#22c55e" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#4ade80"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" x2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.045"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="0.55" stop-color="#fff" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="gridMask"><rect width="1200" height="300" fill="url(#fade)"/></mask>
+    <clipPath id="frame"><rect width="1200" height="300" rx="18"/></clipPath>
   </defs>
-  <rect width="1200" height="260" fill="url(#bg)"/>
-  <g fill="none" stroke="#ffffff" stroke-opacity="0.06">
-    <circle cx="1020" cy="60" r="150"/><circle cx="1020" cy="60" r="100"/><circle cx="1020" cy="60" r="50"/>
-    <circle cx="140" cy="230" r="120"/><circle cx="140" cy="230" r="70"/>
-  </g>
-  <circle r="5" fill="#22c55e" opacity="0.8">
-    <animateMotion dur="14s" repeatCount="indefinite" path="M1020,-90 A150,150 0 1,1 1019.9,-90"/>
-  </circle>
-  <g transform="translate(600,0)" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" fill="#fff">
-    <text y="30" font-size="13" letter-spacing="6" fill="#67e8f9" opacity="0">PERFIL PROFESIONAL<animate attributeName="opacity" from="0" to="1" dur="1s" fill="freeze"/></text>
-    <text y="118" font-size="50" font-weight="700">Marco Antonio Canux Raquec
-      <animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze"/>
-    </text>
-    <text y="160" font-size="22" fill="#cbd5e1">Desarrollador FrontEnd Junior</text>
-    <rect x="-90" y="185" width="180" height="3" rx="1.5" fill="url(#line)">
-      <animate attributeName="width" values="0;180" dur="1.4s" fill="freeze"/>
-      <animate attributeName="x" values="0;-90" dur="1.4s" fill="freeze"/>
+
+  <style>
+    .sans { font-family: 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif; }
+    .mono { font-family: 'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace; }
+    .in { opacity: 0; animation: in 0.8s ease-out forwards; }
+    .d1 { animation-delay: 0.1s; } .d2 { animation-delay: 0.35s; } .d3 { animation-delay: 0.6s; } .d4 { animation-delay: 0.85s; }
+    .line { opacity: 0; animation: in 0.4s ease-out forwards; }
+    .l1 { animation-delay: 0.8s; } .l2 { animation-delay: 1.0s; } .l3 { animation-delay: 1.2s; }
+    .l4 { animation-delay: 1.4s; } .l5 { animation-delay: 1.6s; } .l6 { animation-delay: 1.8s; }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    .pulse { transform-origin: 82px 268px; animation: pulse 2s ease-out infinite; }
+    .float { animation: float 7s ease-in-out infinite; }
+    @keyframes in { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @keyframes pulse { 0% { opacity: 0.7; transform: scale(1); } 100% { opacity: 0; transform: scale(2.6); } }
+    @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-6px); } }
+  </style>
+
+  <g clip-path="url(#frame)">
+    <!-- Fondo -->
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <rect width="1200" height="300" fill="url(#grid)" mask="url(#gridMask)"/>
+    <circle cx="960" cy="40" r="260" fill="url(#glowA)"/>
+    <circle cx="1120" cy="300" r="220" fill="url(#glowB)"/>
+    <circle cx="60" cy="0" r="180" fill="url(#glowA)" opacity="0.5"/>
+
+    <!-- Brillo que recorre el banner -->
+    <rect x="-300" y="0" width="260" height="300" fill="url(#shine)" transform="skewX(-20)">
+      <animate attributeName="x" values="-400;1500;1500" keyTimes="0;0.35;1" dur="9s" repeatCount="indefinite"/>
     </rect>
-    <text y="222" font-size="15" fill="#94a3b8">Guatemala, Guatemala</text>
+
+    <!-- Texto principal -->
+    <g class="sans">
+      <g class="in d1">
+        <rect x="70" y="46" width="232" height="26" rx="13" fill="#22d3ee" fill-opacity="0.1" stroke="#22d3ee" stroke-opacity="0.35"/>
+        <text x="186" y="64" text-anchor="middle" font-size="12" font-weight="600" letter-spacing="3" fill="#67e8f9">PERFIL PROFESIONAL</text>
+      </g>
+
+      <text class="in d2" x="68" y="128" font-size="44" font-weight="800" fill="#f8fafc">Marco Antonio Canux Raquec</text>
+
+      <text class="in d3" x="70" y="172" font-size="27" font-weight="600" fill="url(#accent)">Técnico en Desarrollo de Software</text>
+
+      <rect x="70" y="190" width="0" height="3" rx="1.5" fill="url(#accent)">
+        <animate attributeName="width" values="0;120" dur="1s" begin="0.8s" fill="freeze"/>
+      </rect>
+
+      <text class="in d4" x="70" y="222" font-size="16" fill="#94a3b8">Frontend con JavaScript  ·  APIs REST con Node.js y Express  ·  MySQL</text>
+
+      <!-- Estado y ubicación -->
+      <g class="in d4">
+        <circle class="pulse" cx="82" cy="268" r="5" fill="#4ade80"/>
+        <circle cx="82" cy="268" r="5" fill="#4ade80"/>
+        <text x="96" y="273" font-size="14" font-weight="600" fill="#e2e8f0">Disponible para oportunidades</text>
+        <text x="300" y="273" font-size="14" fill="#64748b">·  Guatemala, Guatemala</text>
+      </g>
+    </g>
+
+    <!-- Ventana de código -->
+    <g class="float">
+      <g transform="translate(790,44)">
+        <rect width="350" height="212" rx="12" fill="#0b1220" fill-opacity="0.92" stroke="#ffffff" stroke-opacity="0.1"/>
+        <path d="M0 12a12 12 0 0 1 12-12h326a12 12 0 0 1 12 12v22H0z" fill="#111a2e"/>
+        <circle cx="20" cy="17" r="5" fill="#f87171"/>
+        <circle cx="38" cy="17" r="5" fill="#fbbf24"/>
+        <circle cx="56" cy="17" r="5" fill="#4ade80"/>
+        <text class="mono" x="175" y="21" text-anchor="middle" font-size="12" fill="#64748b">perfil.js</text>
+
+        <g class="mono" font-size="14">
+          <text class="line l1" x="20" y="64"><tspan fill="#c084fc">const</tspan><tspan fill="#e2e8f0"> dev = {</tspan></text>
+          <text class="line l2" x="37" y="88"><tspan fill="#7dd3fc">nombre</tspan><tspan fill="#e2e8f0">: </tspan><tspan fill="#86efac">"Antonio Canux"</tspan><tspan fill="#e2e8f0">,</tspan></text>
+          <text class="line l3" x="37" y="112"><tspan fill="#7dd3fc">rol</tspan><tspan fill="#e2e8f0">: </tspan><tspan fill="#86efac">"Técnico en Software"</tspan><tspan fill="#e2e8f0">,</tspan></text>
+          <text class="line l4" x="37" y="136"><tspan fill="#7dd3fc">stack</tspan><tspan fill="#e2e8f0">: [</tspan><tspan fill="#86efac">"JS"</tspan><tspan fill="#e2e8f0">, </tspan><tspan fill="#86efac">"Node"</tspan><tspan fill="#e2e8f0">, </tspan><tspan fill="#86efac">"MySQL"</tspan><tspan fill="#e2e8f0">],</tspan></text>
+          <text class="line l5" x="37" y="160"><tspan fill="#7dd3fc">disponible</tspan><tspan fill="#e2e8f0">: </tspan><tspan fill="#fb923c">true</tspan></text>
+          <text class="line l6" x="20" y="184"><tspan fill="#e2e8f0">};</tspan></text>
+          <rect class="cursor" x="40" y="172" width="8" height="16" fill="#22d3ee" opacity="0.9"/>
+        </g>
+      </g>
+    </g>
   </g>
 </svg>
