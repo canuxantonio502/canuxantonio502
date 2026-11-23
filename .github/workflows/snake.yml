@@ -1,4 +1,7 @@
-name: Generate contribution snake
+name: Generate profile assets
+
+# Genera el snake y las tarjetas de estadísticas y los publica en la rama "output".
+# Si algún paso falla, no se publica nada y la rama conserva las imágenes del día anterior.
 
 on:
   schedule:
@@ -14,6 +17,18 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generar tarjetas de estadísticas
+        run: node .github/scripts/stats.mjs dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: ${{ github.repository_owner }}
+
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
