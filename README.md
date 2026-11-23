@@ -242,6 +242,15 @@
 ## Actividad en GitHub
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/canuxantonio502/canuxantonio502/output/stats.svg" alt="Estadísticas de GitHub" width="49%" />
+  <img src="https://raw.githubusercontent.com/canuxantonio502/canuxantonio502/output/languages.svg" alt="Lenguajes más usados" width="49%" />
+  <br />
+  <img src="https://raw.githubusercontent.com/canuxantonio502/canuxantonio502/output/streak.svg" alt="Contribuciones totales y racha" width="99%" />
+</div>
+
+<br />
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/canuxantonio502/canuxantonio502/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/canuxantonio502/canuxantonio502/output/github-snake.svg" />
