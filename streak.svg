@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="260" viewBox="0 0 980 260" role="img" aria-label="Contribuciones y racha">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1220"/><stop offset="1" stop-color="#0a1f1c"/></linearGradient>
+    <linearGradient id="ac" x1="0" x2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#4ade80"/></linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="979" height="259" rx="14" fill="url(#bg)" stroke="#ffffff" stroke-opacity="0.12"/>
+  <g font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif">
+    <text x="28" y="40" font-size="17" font-weight="700" fill="#f1f5f9">Contribuciones y racha</text>
+    <rect x="28" y="50" width="42" height="3" rx="1.5" fill="url(#ac)"/>
+    <line x1="327" y1="80" x2="327" y2="190" stroke="#ffffff" stroke-opacity="0.1"/>
+    <line x1="653" y1="80" x2="653" y2="190" stroke="#ffffff" stroke-opacity="0.1"/>
+    <circle cx="490" cy="116" r="54" fill="none" stroke="#1e293b" stroke-width="6"/>
+    <circle cx="490" cy="116" r="54" fill="none" stroke="url(#ac)" stroke-width="6" stroke-linecap="round"
+      stroke-dasharray="339.3" stroke-dashoffset="0" transform="rotate(-90 490 116)"/>
+    <path d="M490 46c6 9 14 13 14 24a14 14 0 0 1-28 0c0-5 2-8 5-11 0 5 3 7 5 7-2-8 1-14 4-20z" fill="#fb923c"/>
+    
+    <text x="164" y="130" text-anchor="middle" font-size="34" font-weight="800" fill="#f8fafc">757</text>
+    <text x="164" y="198" text-anchor="middle" font-size="14" font-weight="600" fill="#e2e8f0">Contribuciones totales</text>
+    <text x="164" y="218" text-anchor="middle" font-size="12" fill="#94a3b8">21 ene 2026 – hoy</text>
+    
+    <text x="490" y="132" text-anchor="middle" font-size="38" font-weight="800" fill="url(#ac)">0</text>
+    <text x="490" y="198" text-anchor="middle" font-size="14" font-weight="600" fill="#67e8f9">Racha actual (días)</text>
+    <text x="490" y="218" text-anchor="middle" font-size="12" fill="#94a3b8">Sin racha activa</text>
+    
+    <text x="816" y="130" text-anchor="middle" font-size="34" font-weight="800" fill="#f8fafc">8</text>
+    <text x="816" y="198" text-anchor="middle" font-size="14" font-weight="600" fill="#e2e8f0">Racha más larga (días)</text>
+    <text x="816" y="218" text-anchor="middle" font-size="12" fill="#94a3b8">24 sep 2026 – 1 oct 2026</text>
+    <text x="956" y="244" text-anchor="end" font-size="11" fill="#64748b">Actualizado: 28 nov 2026</text>
+  </g>
+</svg>
